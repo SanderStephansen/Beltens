@@ -1,0 +1,139 @@
+body {
+        background-color: steelblue;
+}
+
+.container{
+        margin-left: auto;
+        margin-right: auto;
+        width: 2024px;
+}
+  
+header {
+        background-color: white;
+        height: 100px;
+        margin-top: 10px;
+        text-align: center;
+}
+
+nav {
+        background-color: rgba(71, 61, 139, 0);
+        height: 50px;           
+        color:rgba(255, 255, 255, 0)
+}
+
+main {
+        background-color: black;
+        height: 700px;
+        margin-right: 100px;
+        image-resolution: 300dpi;
+}
+
+footer {
+        background-color: gray ;
+        height: 100px;
+}
+
+h1 {
+        font-size: 20px;;
+        color: gainsboro;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+}
+.produkter{
+        margin-left: 30px;
+
+}
+
+.tlf {
+        margin-right: 60px;
+        
+}
+
+/*BIlder*/
+
+
+
+.center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        height: 600px;
+
+}
+
+
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: #484545;
+  color: white;
+  padding: 14px;
+  font-size: 20px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f162;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: rgba(221, 221, 221, 0);}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {background-color: #858587;}
+
+/*Producter
+
+.card {
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        max-width: 300px;
+        margin: 15%;x   
+        text-align: center;
+        font-family: arial;
+      }
+      
+      .price {
+        color: grey;
+        font-size: 22px;
+      }
+      
+      .card button {
+        border: none;
+        outline: 0;
+        padding: 12px;
+        color: white;
+        background-color: #000;
+        text-align: center;
+        cursor: pointer;
+        width: 100%;
+        font-size: 18px;
+      }
+      
+      .card button:hover {
+        opacity: 0.7;
+      } */
+
+       
